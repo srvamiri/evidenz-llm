@@ -10,14 +10,14 @@ def get_embedder():
 
 embedder = get_embedder()
 
-folder_path = "/app/faiss/"
+folder_path = "faiss/"
 
 files_to_verify = [
-    os.path.join("app", "faiss", "ticket_index.faiss"),
-    os.path.join("app", "faiss", "ticket_history.json"),
-    os.path.join("app", "faiss", "ticket_metadata.json"),
-    os.path.join("app", "faiss", "communication_logs_2024.csv"),
-    os.path.join("app", "faiss", "classified_logs_24.csv"),
+    os.path.join(folder_path, "ticket_index.faiss"),
+    os.path.join(folder_path, "ticket_history.json"),
+    os.path.join(folder_path, "ticket_metadata.json"),
+    os.path.join(folder_path, "communication_logs_2024.csv"),
+    os.path.join(folder_path, "classified_logs_24.csv"),
 ]
 
 def verify_files():
