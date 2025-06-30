@@ -1,7 +1,6 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from sentence_transformers import SentenceTransformer
-from huggingface_hub import login, HfApi
-from huggingface_hub.utils import HfHubHTTPError
+from huggingface_hub import login
 from decimal import Decimal
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel

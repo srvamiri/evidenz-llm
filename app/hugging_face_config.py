@@ -15,10 +15,6 @@ def hugging_face_login():
 
 def load_hf():
     try:
-        # user_info = hf_api.whoami()
-        # if user_info:
-        #     return True
-        # else:
         if not logged_in:
             hugging_face_login()
             torch.set_default_device("cuda")        

@@ -1,8 +1,5 @@
 from modules import uvicorn, FastAPI, BaseModel, List, HTTPException
 from functions import get_solution
-from hugging_face_config import load_hf
-
-load_hf()
 
 app = FastAPI()
 
