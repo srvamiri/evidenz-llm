@@ -1,0 +1,11 @@
+transformers
+peft
+accelerate
+bitsandbytes
+pandas
+sentence-transformers
+datasets
+fsspec==2025.3.2
+fastapi
+uvicorn
+faiss-cpu
