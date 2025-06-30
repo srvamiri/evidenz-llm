@@ -1,5 +1,7 @@
 from modules import AutoModelForCausalLM, AutoTokenizer, PeftModel, BitsAndBytesConfig, torch
+from hugging_face_config import load_hf
 
+load_hf()
 model_path = "google/gemma-2-9b-it"
 model_repo = "samiri1377/gemma-2-9b-it-fine-tuned"
 
