@@ -85,24 +85,22 @@ def load_data_and_index():
 
 # Load saved data and index
 def get_dataset():
-  with open(f"{folder_path}ticket_history.json", "r") as f:
-      docs = json.load(f)
-
-  with open(f"{folder_path}ticket_metadata.json", "r") as f:
-      metadata = json.load(f)
-
-  index = faiss.read_index(f"{folder_path}ticket_index.faiss")
-
-  return docs, metadata, index
-
-
-if __name__ == "__main__":
-    # Verify files
+    """
+    Load the dataset and the FAISS index.
+    If the index or data files are missing, it will rebuild them.
+    """
+    # Verify if all required files are present
     missing_files = verify_files()
     if missing_files != []:
         # Load data and build index
         load_data_and_index()
     else:
-        print("All files are present. No need to rebuild the index.")
-        
-    
+        with open(f"{folder_path}ticket_history.json", "r") as f:
+            docs = json.load(f)
+
+        with open(f"{folder_path}ticket_metadata.json", "r") as f:
+            metadata = json.load(f)
+
+        index = faiss.read_index(f"{folder_path}ticket_index.faiss")
+
+    return docs, metadata, index
