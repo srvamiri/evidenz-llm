@@ -1,9 +1,6 @@
 from modules import np, torch
 from load_model import load_model
 from dataset import get_dataset, _embedder
-from hugging_face_config import load_hf
-
-load_hf()
 
 docs, metadata, index = get_dataset()
 model, tokenizer = load_model()
