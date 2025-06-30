@@ -1,24 +1,26 @@
 from modules import login as hf_login
-from modules import os, torch, HfApi, HfHubHTTPError
+from modules import os, torch
 
-hf_api = HfApi()
+logged_in = False
 
 def hugging_face_login():
-    if os.path.exists("app/config/hugging_face_token.txt"):
-        with open("app/config/hugging_face_token.txt", "r") as f:
+    global logged_in
+    if os.path.exists("config/hugging_face_token.txt"):
+        with open("config/hugging_face_token.txt", "r") as f:
             hf_token = f.read().strip()
         hf_login(hf_token)
-        return True
+        logged_in = True
     else:
-        raise FileNotFoundError("Hugging Face token file not found. Please create 'app/config/hugging_face_token.txt' with your token.")
+        raise FileNotFoundError("Hugging Face token file not found. Please create 'config/hugging_face_token.txt' with your token.")
 
 def load_hf():
     try:
-        user_info = hf_api.whoami()
-        if user_info:
-            return True
-        else:
+        # user_info = hf_api.whoami()
+        # if user_info:
+        #     return True
+        # else:
+        if not logged_in:
             hugging_face_login()
-            torch.set_default_device("cuda")
-    except HfHubHTTPError:
+            torch.set_default_device("cuda")        
+    except FileNotFoundError:
         print("❌ Hugging Face Login failed.")
