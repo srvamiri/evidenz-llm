@@ -9,3 +9,4 @@ fsspec==2025.3.2
 fastapi
 uvicorn
 faiss-cpu
+streamlit

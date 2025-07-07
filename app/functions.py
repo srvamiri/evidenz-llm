@@ -1,6 +1,6 @@
-from modules import np, torch
-from load_model import load_model
-from dataset import get_dataset, _embedder
+from app.modules import np, torch
+from app.load_model import load_model
+from app.dataset import get_dataset, _embedder
 
 docs, metadata, index = get_dataset()
 model, tokenizer = load_model()
@@ -33,12 +33,11 @@ def search(query: str, top_k=3):
     top_tickets = []
 
     for idx in indices[0]:      
-      top_tickets.append({
-          "ticket_id": metadata[idx]["ID"],
-          "category": metadata[idx]["category"],
-          "conversation": docs[idx]
-      })
-
+          top_tickets.append({
+              "ticket_id": metadata[idx]["ID"],
+              "category": metadata[idx]["category"],
+              "conversation": docs[idx]
+          })
     return top_tickets
 
 def generate_response(prompt: str):

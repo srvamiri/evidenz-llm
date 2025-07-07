@@ -10,7 +10,7 @@ def get_embedder():
 
 embedder = get_embedder()
 
-folder_path = "faiss/"
+folder_path = "app/faiss/"
 
 files_to_verify = [
     os.path.join(folder_path, "ticket_index.faiss"),

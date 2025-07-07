@@ -1,6095 +1,8126 @@
 [
   {
-    "Ticket_ID": 314218
+    "ID": 314218,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 314375
+    "ID": 314375,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 314448
+    "ID": 314448,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 314511
+    "ID": 314511,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 314637
+    "ID": 314637,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 314650
+    "ID": 314650,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 314656
+    "ID": 314656,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 314723
+    "ID": 314723,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 314726
+    "ID": 314726,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 314756
+    "ID": 314756,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 314785
+    "ID": 314785,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 314790
+    "ID": 314790,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 314824
+    "ID": 314824,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 317871
+    "ID": 317871,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 317877
+    "ID": 317877,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 317912
+    "ID": 317912,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 317945
+    "ID": 317945,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 317955
+    "ID": 317955,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 317969
+    "ID": 317969,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 317974
+    "ID": 317974,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 317980
+    "ID": 317980,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 317996
+    "ID": 317996,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 317999
+    "ID": 317999,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318030
+    "ID": 318030,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318049
+    "ID": 318049,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318054
+    "ID": 318054,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318055
+    "ID": 318055,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318060
+    "ID": 318060,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318065
+    "ID": 318065,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318066
+    "ID": 318066,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318070
+    "ID": 318070,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318076
+    "ID": 318076,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318083
+    "ID": 318083,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318084
+    "ID": 318084,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318086
+    "ID": 318086,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318087
+    "ID": 318087,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318088
+    "ID": 318088,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318090
+    "ID": 318090,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318091
+    "ID": 318091,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318092
+    "ID": 318092,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318093
+    "ID": 318093,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318094
+    "ID": 318094,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318095
+    "ID": 318095,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318096
+    "ID": 318096,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318097
+    "ID": 318097,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318098
+    "ID": 318098,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318099
+    "ID": 318099,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318100
+    "ID": 318100,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318101
+    "ID": 318101,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318102
+    "ID": 318102,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318103
+    "ID": 318103,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318104
+    "ID": 318104,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318105
+    "ID": 318105,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318106
+    "ID": 318106,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318107
+    "ID": 318107,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318108
+    "ID": 318108,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318109
+    "ID": 318109,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318110
+    "ID": 318110,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318111
+    "ID": 318111,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318112
+    "ID": 318112,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318113
+    "ID": 318113,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318114
+    "ID": 318114,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318115
+    "ID": 318115,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318116
+    "ID": 318116,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318117
+    "ID": 318117,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318118
+    "ID": 318118,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318119
+    "ID": 318119,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318120
+    "ID": 318120,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318121
+    "ID": 318121,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318122
+    "ID": 318122,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318123
+    "ID": 318123,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318124
+    "ID": 318124,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318125
+    "ID": 318125,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318126
+    "ID": 318126,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318127
+    "ID": 318127,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318128
+    "ID": 318128,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318129
+    "ID": 318129,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318130
+    "ID": 318130,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318131
+    "ID": 318131,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318132
+    "ID": 318132,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318133
+    "ID": 318133,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318134
+    "ID": 318134,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318135
+    "ID": 318135,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318136
+    "ID": 318136,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318137
+    "ID": 318137,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318138
+    "ID": 318138,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318139
+    "ID": 318139,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318140
+    "ID": 318140,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318141
+    "ID": 318141,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318142
+    "ID": 318142,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318143
+    "ID": 318143,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318144
+    "ID": 318144,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318145
+    "ID": 318145,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318146
+    "ID": 318146,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318147
+    "ID": 318147,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318148
+    "ID": 318148,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318149
+    "ID": 318149,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318150
+    "ID": 318150,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318151
+    "ID": 318151,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318152
+    "ID": 318152,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318153
+    "ID": 318153,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318154
+    "ID": 318154,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318155
+    "ID": 318155,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318156
+    "ID": 318156,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318157
+    "ID": 318157,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318158
+    "ID": 318158,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318159
+    "ID": 318159,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318160
+    "ID": 318160,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318161
+    "ID": 318161,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318162
+    "ID": 318162,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318163
+    "ID": 318163,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318164
+    "ID": 318164,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318165
+    "ID": 318165,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318166
+    "ID": 318166,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318167
+    "ID": 318167,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318168
+    "ID": 318168,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318169
+    "ID": 318169,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318170
+    "ID": 318170,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318171
+    "ID": 318171,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318172
+    "ID": 318172,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318173
+    "ID": 318173,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318174
+    "ID": 318174,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318175
+    "ID": 318175,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318176
+    "ID": 318176,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318177
+    "ID": 318177,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318178
+    "ID": 318178,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318179
+    "ID": 318179,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318180
+    "ID": 318180,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318181
+    "ID": 318181,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318182
+    "ID": 318182,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318183
+    "ID": 318183,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318184
+    "ID": 318184,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318185
+    "ID": 318185,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318186
+    "ID": 318186,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318187
+    "ID": 318187,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318188
+    "ID": 318188,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318189
+    "ID": 318189,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318190
+    "ID": 318190,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318191
+    "ID": 318191,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318192
+    "ID": 318192,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318193
+    "ID": 318193,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318194
+    "ID": 318194,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318195
+    "ID": 318195,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318196
+    "ID": 318196,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318197
+    "ID": 318197,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318198
+    "ID": 318198,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318199
+    "ID": 318199,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318200
+    "ID": 318200,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318201
+    "ID": 318201,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318202
+    "ID": 318202,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318203
+    "ID": 318203,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318204
+    "ID": 318204,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318205
+    "ID": 318205,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318206
+    "ID": 318206,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318207
+    "ID": 318207,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318208
+    "ID": 318208,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318209
+    "ID": 318209,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318210
+    "ID": 318210,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318211
+    "ID": 318211,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318212
+    "ID": 318212,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318213
+    "ID": 318213,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318214
+    "ID": 318214,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318215
+    "ID": 318215,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318216
+    "ID": 318216,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318217
+    "ID": 318217,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318218
+    "ID": 318218,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318219
+    "ID": 318219,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318220
+    "ID": 318220,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318221
+    "ID": 318221,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318222
+    "ID": 318222,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318223
+    "ID": 318223,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318224
+    "ID": 318224,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318225
+    "ID": 318225,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318226
+    "ID": 318226,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318227
+    "ID": 318227,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318228
+    "ID": 318228,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318229
+    "ID": 318229,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318230
+    "ID": 318230,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318231
+    "ID": 318231,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318232
+    "ID": 318232,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318233
+    "ID": 318233,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318234
+    "ID": 318234,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318235
+    "ID": 318235,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318236
+    "ID": 318236,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318237
+    "ID": 318237,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318238
+    "ID": 318238,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318239
+    "ID": 318239,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318240
+    "ID": 318240,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318241
+    "ID": 318241,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318242
+    "ID": 318242,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318243
+    "ID": 318243,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318244
+    "ID": 318244,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318245
+    "ID": 318245,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318246
+    "ID": 318246,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318247
+    "ID": 318247,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318248
+    "ID": 318248,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318249
+    "ID": 318249,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318250
+    "ID": 318250,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318251
+    "ID": 318251,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318252
+    "ID": 318252,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318253
+    "ID": 318253,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318254
+    "ID": 318254,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318255
+    "ID": 318255,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318256
+    "ID": 318256,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318257
+    "ID": 318257,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318258
+    "ID": 318258,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318259
+    "ID": 318259,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318260
+    "ID": 318260,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318261
+    "ID": 318261,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318262
+    "ID": 318262,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318263
+    "ID": 318263,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318264
+    "ID": 318264,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318265
+    "ID": 318265,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318266
+    "ID": 318266,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318267
+    "ID": 318267,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318268
+    "ID": 318268,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318269
+    "ID": 318269,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318270
+    "ID": 318270,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318271
+    "ID": 318271,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318272
+    "ID": 318272,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318273
+    "ID": 318273,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318274
+    "ID": 318274,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318275
+    "ID": 318275,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318276
+    "ID": 318276,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318277
+    "ID": 318277,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318278
+    "ID": 318278,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318279
+    "ID": 318279,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 318280
+    "ID": 318280,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318281
+    "ID": 318281,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318282
+    "ID": 318282,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318283
+    "ID": 318283,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318284
+    "ID": 318284,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318285
+    "ID": 318285,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318286
+    "ID": 318286,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318287
+    "ID": 318287,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318288
+    "ID": 318288,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318289
+    "ID": 318289,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318290
+    "ID": 318290,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318291
+    "ID": 318291,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318292
+    "ID": 318292,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318293
+    "ID": 318293,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318294
+    "ID": 318294,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318295
+    "ID": 318295,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318296
+    "ID": 318296,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318297
+    "ID": 318297,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318298
+    "ID": 318298,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318299
+    "ID": 318299,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318300
+    "ID": 318300,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318301
+    "ID": 318301,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318302
+    "ID": 318302,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318303
+    "ID": 318303,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318304
+    "ID": 318304,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318305
+    "ID": 318305,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318306
+    "ID": 318306,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318307
+    "ID": 318307,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318308
+    "ID": 318308,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318309
+    "ID": 318309,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318310
+    "ID": 318310,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318311
+    "ID": 318311,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318312
+    "ID": 318312,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318313
+    "ID": 318313,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318314
+    "ID": 318314,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318315
+    "ID": 318315,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318316
+    "ID": 318316,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318317
+    "ID": 318317,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318318
+    "ID": 318318,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318319
+    "ID": 318319,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318320
+    "ID": 318320,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318326
+    "ID": 318326,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318327
+    "ID": 318327,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318328
+    "ID": 318328,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318329
+    "ID": 318329,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318330
+    "ID": 318330,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318331
+    "ID": 318331,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318332
+    "ID": 318332,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318333
+    "ID": 318333,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318334
+    "ID": 318334,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318335
+    "ID": 318335,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318336
+    "ID": 318336,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318337
+    "ID": 318337,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318338
+    "ID": 318338,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318339
+    "ID": 318339,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318340
+    "ID": 318340,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318341
+    "ID": 318341,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318342
+    "ID": 318342,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318343
+    "ID": 318343,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318344
+    "ID": 318344,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318345
+    "ID": 318345,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318346
+    "ID": 318346,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318347
+    "ID": 318347,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318348
+    "ID": 318348,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318349
+    "ID": 318349,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318350
+    "ID": 318350,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318351
+    "ID": 318351,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318352
+    "ID": 318352,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318353
+    "ID": 318353,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318354
+    "ID": 318354,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318355
+    "ID": 318355,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318356
+    "ID": 318356,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318357
+    "ID": 318357,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318358
+    "ID": 318358,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318359
+    "ID": 318359,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318360
+    "ID": 318360,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318361
+    "ID": 318361,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318362
+    "ID": 318362,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318363
+    "ID": 318363,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318364
+    "ID": 318364,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318365
+    "ID": 318365,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318366
+    "ID": 318366,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318367
+    "ID": 318367,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318368
+    "ID": 318368,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318369
+    "ID": 318369,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318370
+    "ID": 318370,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318371
+    "ID": 318371,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318372
+    "ID": 318372,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318373
+    "ID": 318373,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318374
+    "ID": 318374,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318375
+    "ID": 318375,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318376
+    "ID": 318376,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318377
+    "ID": 318377,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318378
+    "ID": 318378,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318379
+    "ID": 318379,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318380
+    "ID": 318380,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318381
+    "ID": 318381,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318382
+    "ID": 318382,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318383
+    "ID": 318383,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318384
+    "ID": 318384,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318385
+    "ID": 318385,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318386
+    "ID": 318386,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318387
+    "ID": 318387,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318388
+    "ID": 318388,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318389
+    "ID": 318389,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318390
+    "ID": 318390,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318391
+    "ID": 318391,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318392
+    "ID": 318392,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318393
+    "ID": 318393,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318394
+    "ID": 318394,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318395
+    "ID": 318395,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318396
+    "ID": 318396,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318397
+    "ID": 318397,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318398
+    "ID": 318398,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318399
+    "ID": 318399,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318400
+    "ID": 318400,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318401
+    "ID": 318401,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318402
+    "ID": 318402,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318403
+    "ID": 318403,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318404
+    "ID": 318404,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318405
+    "ID": 318405,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318406
+    "ID": 318406,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318407
+    "ID": 318407,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 318408
+    "ID": 318408,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318409
+    "ID": 318409,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318410
+    "ID": 318410,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318411
+    "ID": 318411,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318412
+    "ID": 318412,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318413
+    "ID": 318413,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318414
+    "ID": 318414,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318415
+    "ID": 318415,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318416
+    "ID": 318416,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318417
+    "ID": 318417,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318418
+    "ID": 318418,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318419
+    "ID": 318419,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318420
+    "ID": 318420,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318421
+    "ID": 318421,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318422
+    "ID": 318422,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318423
+    "ID": 318423,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318424
+    "ID": 318424,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318425
+    "ID": 318425,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318426
+    "ID": 318426,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318427
+    "ID": 318427,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318428
+    "ID": 318428,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318429
+    "ID": 318429,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318430
+    "ID": 318430,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318431
+    "ID": 318431,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318432
+    "ID": 318432,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318433
+    "ID": 318433,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318434
+    "ID": 318434,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318435
+    "ID": 318435,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318436
+    "ID": 318436,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318437
+    "ID": 318437,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318438
+    "ID": 318438,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318439
+    "ID": 318439,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318440
+    "ID": 318440,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318441
+    "ID": 318441,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318442
+    "ID": 318442,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318443
+    "ID": 318443,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318444
+    "ID": 318444,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318445
+    "ID": 318445,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318446
+    "ID": 318446,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318447
+    "ID": 318447,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318448
+    "ID": 318448,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318449
+    "ID": 318449,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318450
+    "ID": 318450,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318451
+    "ID": 318451,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318452
+    "ID": 318452,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318453
+    "ID": 318453,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318454
+    "ID": 318454,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318455
+    "ID": 318455,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318456
+    "ID": 318456,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318457
+    "ID": 318457,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318458
+    "ID": 318458,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318459
+    "ID": 318459,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318460
+    "ID": 318460,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318461
+    "ID": 318461,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318462
+    "ID": 318462,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318463
+    "ID": 318463,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318464
+    "ID": 318464,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318465
+    "ID": 318465,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318466
+    "ID": 318466,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318467
+    "ID": 318467,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318468
+    "ID": 318468,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318469
+    "ID": 318469,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318470
+    "ID": 318470,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318471
+    "ID": 318471,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318472
+    "ID": 318472,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318473
+    "ID": 318473,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318474
+    "ID": 318474,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318475
+    "ID": 318475,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318476
+    "ID": 318476,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318477
+    "ID": 318477,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318478
+    "ID": 318478,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318479
+    "ID": 318479,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318480
+    "ID": 318480,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318481
+    "ID": 318481,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318482
+    "ID": 318482,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318483
+    "ID": 318483,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318484
+    "ID": 318484,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318485
+    "ID": 318485,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318486
+    "ID": 318486,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318487
+    "ID": 318487,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318488
+    "ID": 318488,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318489
+    "ID": 318489,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318490
+    "ID": 318490,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318491
+    "ID": 318491,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318492
+    "ID": 318492,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318493
+    "ID": 318493,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318494
+    "ID": 318494,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318495
+    "ID": 318495,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318496
+    "ID": 318496,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318497
+    "ID": 318497,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318498
+    "ID": 318498,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318499
+    "ID": 318499,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318500
+    "ID": 318500,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318501
+    "ID": 318501,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318502
+    "ID": 318502,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318503
+    "ID": 318503,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318504
+    "ID": 318504,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318505
+    "ID": 318505,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318506
+    "ID": 318506,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318507
+    "ID": 318507,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318508
+    "ID": 318508,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318509
+    "ID": 318509,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318510
+    "ID": 318510,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318511
+    "ID": 318511,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318512
+    "ID": 318512,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318513
+    "ID": 318513,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318514
+    "ID": 318514,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318515
+    "ID": 318515,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318516
+    "ID": 318516,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318517
+    "ID": 318517,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318518
+    "ID": 318518,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318519
+    "ID": 318519,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318520
+    "ID": 318520,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318521
+    "ID": 318521,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318522
+    "ID": 318522,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318523
+    "ID": 318523,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318524
+    "ID": 318524,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318525
+    "ID": 318525,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318526
+    "ID": 318526,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318527
+    "ID": 318527,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318528
+    "ID": 318528,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318529
+    "ID": 318529,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318530
+    "ID": 318530,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318531
+    "ID": 318531,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318532
+    "ID": 318532,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318533
+    "ID": 318533,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318534
+    "ID": 318534,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318535
+    "ID": 318535,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318536
+    "ID": 318536,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318537
+    "ID": 318537,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318538
+    "ID": 318538,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318539
+    "ID": 318539,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318540
+    "ID": 318540,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318541
+    "ID": 318541,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318542
+    "ID": 318542,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318543
+    "ID": 318543,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318544
+    "ID": 318544,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318545
+    "ID": 318545,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318546
+    "ID": 318546,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318547
+    "ID": 318547,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318548
+    "ID": 318548,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318549
+    "ID": 318549,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318550
+    "ID": 318550,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318551
+    "ID": 318551,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318552
+    "ID": 318552,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318553
+    "ID": 318553,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318554
+    "ID": 318554,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318555
+    "ID": 318555,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318556
+    "ID": 318556,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318557
+    "ID": 318557,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318558
+    "ID": 318558,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318559
+    "ID": 318559,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318560
+    "ID": 318560,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318561
+    "ID": 318561,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318562
+    "ID": 318562,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318563
+    "ID": 318563,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318564
+    "ID": 318564,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318565
+    "ID": 318565,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318566
+    "ID": 318566,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318567
+    "ID": 318567,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318568
+    "ID": 318568,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318569
+    "ID": 318569,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318570
+    "ID": 318570,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318571
+    "ID": 318571,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318572
+    "ID": 318572,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318573
+    "ID": 318573,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318574
+    "ID": 318574,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318575
+    "ID": 318575,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318576
+    "ID": 318576,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318577
+    "ID": 318577,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318578
+    "ID": 318578,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318579
+    "ID": 318579,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318580
+    "ID": 318580,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318581
+    "ID": 318581,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318582
+    "ID": 318582,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318583
+    "ID": 318583,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318584
+    "ID": 318584,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318585
+    "ID": 318585,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318586
+    "ID": 318586,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318587
+    "ID": 318587,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318588
+    "ID": 318588,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318590
+    "ID": 318590,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318591
+    "ID": 318591,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318592
+    "ID": 318592,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318593
+    "ID": 318593,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318594
+    "ID": 318594,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318595
+    "ID": 318595,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318596
+    "ID": 318596,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318597
+    "ID": 318597,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318598
+    "ID": 318598,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318599
+    "ID": 318599,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318600
+    "ID": 318600,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318601
+    "ID": 318601,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318602
+    "ID": 318602,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318603
+    "ID": 318603,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318604
+    "ID": 318604,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318605
+    "ID": 318605,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318606
+    "ID": 318606,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318607
+    "ID": 318607,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318608
+    "ID": 318608,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318609
+    "ID": 318609,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318610
+    "ID": 318610,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318611
+    "ID": 318611,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318612
+    "ID": 318612,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318613
+    "ID": 318613,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318614
+    "ID": 318614,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318615
+    "ID": 318615,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318616
+    "ID": 318616,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318617
+    "ID": 318617,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318618
+    "ID": 318618,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318619
+    "ID": 318619,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318620
+    "ID": 318620,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318621
+    "ID": 318621,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318622
+    "ID": 318622,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318623
+    "ID": 318623,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318624
+    "ID": 318624,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318625
+    "ID": 318625,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318626
+    "ID": 318626,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318627
+    "ID": 318627,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318628
+    "ID": 318628,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318629
+    "ID": 318629,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318630
+    "ID": 318630,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318631
+    "ID": 318631,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318632
+    "ID": 318632,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318633
+    "ID": 318633,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318634
+    "ID": 318634,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318635
+    "ID": 318635,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318636
+    "ID": 318636,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318637
+    "ID": 318637,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318638
+    "ID": 318638,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318639
+    "ID": 318639,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318640
+    "ID": 318640,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318641
+    "ID": 318641,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318642
+    "ID": 318642,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318643
+    "ID": 318643,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318644
+    "ID": 318644,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318645
+    "ID": 318645,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318646
+    "ID": 318646,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318647
+    "ID": 318647,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318648
+    "ID": 318648,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318649
+    "ID": 318649,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318650
+    "ID": 318650,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318651
+    "ID": 318651,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318652
+    "ID": 318652,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318653
+    "ID": 318653,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318654
+    "ID": 318654,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318655
+    "ID": 318655,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318656
+    "ID": 318656,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318657
+    "ID": 318657,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318658
+    "ID": 318658,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318659
+    "ID": 318659,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318660
+    "ID": 318660,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318661
+    "ID": 318661,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318662
+    "ID": 318662,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318663
+    "ID": 318663,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318664
+    "ID": 318664,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318665
+    "ID": 318665,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318666
+    "ID": 318666,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318667
+    "ID": 318667,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318668
+    "ID": 318668,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318669
+    "ID": 318669,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318670
+    "ID": 318670,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318671
+    "ID": 318671,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318672
+    "ID": 318672,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318673
+    "ID": 318673,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318674
+    "ID": 318674,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318675
+    "ID": 318675,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318676
+    "ID": 318676,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318677
+    "ID": 318677,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318678
+    "ID": 318678,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318679
+    "ID": 318679,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318680
+    "ID": 318680,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318681
+    "ID": 318681,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318682
+    "ID": 318682,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318683
+    "ID": 318683,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318684
+    "ID": 318684,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318685
+    "ID": 318685,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318686
+    "ID": 318686,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318687
+    "ID": 318687,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318688
+    "ID": 318688,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318689
+    "ID": 318689,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318690
+    "ID": 318690,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318691
+    "ID": 318691,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318692
+    "ID": 318692,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318693
+    "ID": 318693,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318694
+    "ID": 318694,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318695
+    "ID": 318695,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318696
+    "ID": 318696,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318697
+    "ID": 318697,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318698
+    "ID": 318698,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318699
+    "ID": 318699,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318700
+    "ID": 318700,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318701
+    "ID": 318701,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318702
+    "ID": 318702,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318703
+    "ID": 318703,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318704
+    "ID": 318704,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318705
+    "ID": 318705,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318706
+    "ID": 318706,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318707
+    "ID": 318707,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318708
+    "ID": 318708,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318709
+    "ID": 318709,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318710
+    "ID": 318710,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318711
+    "ID": 318711,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318712
+    "ID": 318712,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318713
+    "ID": 318713,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318714
+    "ID": 318714,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318715
+    "ID": 318715,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318716
+    "ID": 318716,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318717
+    "ID": 318717,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318718
+    "ID": 318718,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318719
+    "ID": 318719,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318720
+    "ID": 318720,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318721
+    "ID": 318721,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318722
+    "ID": 318722,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318723
+    "ID": 318723,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318724
+    "ID": 318724,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318725
+    "ID": 318725,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318726
+    "ID": 318726,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318727
+    "ID": 318727,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318728
+    "ID": 318728,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318729
+    "ID": 318729,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318730
+    "ID": 318730,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318731
+    "ID": 318731,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318732
+    "ID": 318732,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318733
+    "ID": 318733,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318734
+    "ID": 318734,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318735
+    "ID": 318735,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318736
+    "ID": 318736,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318737
+    "ID": 318737,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318738
+    "ID": 318738,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318739
+    "ID": 318739,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318740
+    "ID": 318740,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318741
+    "ID": 318741,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318742
+    "ID": 318742,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318743
+    "ID": 318743,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318744
+    "ID": 318744,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318745
+    "ID": 318745,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318746
+    "ID": 318746,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318747
+    "ID": 318747,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318748
+    "ID": 318748,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318749
+    "ID": 318749,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318750
+    "ID": 318750,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318751
+    "ID": 318751,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318752
+    "ID": 318752,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318753
+    "ID": 318753,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318754
+    "ID": 318754,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318755
+    "ID": 318755,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318756
+    "ID": 318756,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318757
+    "ID": 318757,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318758
+    "ID": 318758,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318759
+    "ID": 318759,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318760
+    "ID": 318760,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318761
+    "ID": 318761,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318762
+    "ID": 318762,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318763
+    "ID": 318763,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318764
+    "ID": 318764,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318765
+    "ID": 318765,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318766
+    "ID": 318766,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318767
+    "ID": 318767,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318768
+    "ID": 318768,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318769
+    "ID": 318769,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318770
+    "ID": 318770,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318771
+    "ID": 318771,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318772
+    "ID": 318772,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318773
+    "ID": 318773,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318774
+    "ID": 318774,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318775
+    "ID": 318775,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318776
+    "ID": 318776,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318777
+    "ID": 318777,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318778
+    "ID": 318778,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318779
+    "ID": 318779,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318780
+    "ID": 318780,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318781
+    "ID": 318781,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318782
+    "ID": 318782,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318783
+    "ID": 318783,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318784
+    "ID": 318784,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318785
+    "ID": 318785,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318786
+    "ID": 318786,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318787
+    "ID": 318787,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318788
+    "ID": 318788,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318789
+    "ID": 318789,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318790
+    "ID": 318790,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318791
+    "ID": 318791,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318792
+    "ID": 318792,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318793
+    "ID": 318793,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318794
+    "ID": 318794,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318795
+    "ID": 318795,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318796
+    "ID": 318796,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318797
+    "ID": 318797,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318798
+    "ID": 318798,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318799
+    "ID": 318799,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 318800
+    "ID": 318800,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318801
+    "ID": 318801,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318802
+    "ID": 318802,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318803
+    "ID": 318803,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318804
+    "ID": 318804,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318805
+    "ID": 318805,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318806
+    "ID": 318806,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318807
+    "ID": 318807,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318808
+    "ID": 318808,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318809
+    "ID": 318809,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318810
+    "ID": 318810,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 318811
+    "ID": 318811,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 318812
+    "ID": 318812,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 318813
+    "ID": 318813,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 318814
+    "ID": 318814,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319808
+    "ID": 319808,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319809
+    "ID": 319809,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319810
+    "ID": 319810,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319811
+    "ID": 319811,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319812
+    "ID": 319812,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319813
+    "ID": 319813,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319814
+    "ID": 319814,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319815
+    "ID": 319815,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319816
+    "ID": 319816,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319817
+    "ID": 319817,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319818
+    "ID": 319818,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319819
+    "ID": 319819,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319820
+    "ID": 319820,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319821
+    "ID": 319821,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319822
+    "ID": 319822,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319823
+    "ID": 319823,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319824
+    "ID": 319824,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319825
+    "ID": 319825,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319826
+    "ID": 319826,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319827
+    "ID": 319827,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319828
+    "ID": 319828,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319829
+    "ID": 319829,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319830
+    "ID": 319830,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319831
+    "ID": 319831,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319832
+    "ID": 319832,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319833
+    "ID": 319833,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319834
+    "ID": 319834,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319835
+    "ID": 319835,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319836
+    "ID": 319836,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 319837
+    "ID": 319837,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319838
+    "ID": 319838,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319839
+    "ID": 319839,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319840
+    "ID": 319840,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319841
+    "ID": 319841,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319842
+    "ID": 319842,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319843
+    "ID": 319843,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319844
+    "ID": 319844,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319845
+    "ID": 319845,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319846
+    "ID": 319846,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319847
+    "ID": 319847,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319848
+    "ID": 319848,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319849
+    "ID": 319849,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319850
+    "ID": 319850,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319851
+    "ID": 319851,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319852
+    "ID": 319852,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319853
+    "ID": 319853,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319854
+    "ID": 319854,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319855
+    "ID": 319855,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319856
+    "ID": 319856,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319857
+    "ID": 319857,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319858
+    "ID": 319858,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319859
+    "ID": 319859,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319860
+    "ID": 319860,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319861
+    "ID": 319861,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319862
+    "ID": 319862,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319863
+    "ID": 319863,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319864
+    "ID": 319864,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319865
+    "ID": 319865,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319866
+    "ID": 319866,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319867
+    "ID": 319867,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319868
+    "ID": 319868,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319869
+    "ID": 319869,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319870
+    "ID": 319870,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319871
+    "ID": 319871,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319872
+    "ID": 319872,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319873
+    "ID": 319873,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319874
+    "ID": 319874,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319875
+    "ID": 319875,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319876
+    "ID": 319876,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319877
+    "ID": 319877,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 319878
+    "ID": 319878,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319879
+    "ID": 319879,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319880
+    "ID": 319880,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319881
+    "ID": 319881,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319882
+    "ID": 319882,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319883
+    "ID": 319883,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319884
+    "ID": 319884,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319885
+    "ID": 319885,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319886
+    "ID": 319886,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319887
+    "ID": 319887,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319888
+    "ID": 319888,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319889
+    "ID": 319889,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319890
+    "ID": 319890,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319891
+    "ID": 319891,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319892
+    "ID": 319892,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319893
+    "ID": 319893,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319894
+    "ID": 319894,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319895
+    "ID": 319895,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319896
+    "ID": 319896,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319897
+    "ID": 319897,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319898
+    "ID": 319898,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319899
+    "ID": 319899,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 319900
+    "ID": 319900,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319901
+    "ID": 319901,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319902
+    "ID": 319902,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319903
+    "ID": 319903,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319904
+    "ID": 319904,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319905
+    "ID": 319905,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319906
+    "ID": 319906,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319907
+    "ID": 319907,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319908
+    "ID": 319908,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319909
+    "ID": 319909,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319910
+    "ID": 319910,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319911
+    "ID": 319911,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319912
+    "ID": 319912,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319913
+    "ID": 319913,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 319914
+    "ID": 319914,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319915
+    "ID": 319915,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319916
+    "ID": 319916,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319917
+    "ID": 319917,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319918
+    "ID": 319918,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319919
+    "ID": 319919,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319920
+    "ID": 319920,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319921
+    "ID": 319921,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319922
+    "ID": 319922,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319923
+    "ID": 319923,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319924
+    "ID": 319924,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319925
+    "ID": 319925,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319926
+    "ID": 319926,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319927
+    "ID": 319927,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319928
+    "ID": 319928,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319929
+    "ID": 319929,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319930
+    "ID": 319930,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319931
+    "ID": 319931,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319932
+    "ID": 319932,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319933
+    "ID": 319933,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319934
+    "ID": 319934,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319935
+    "ID": 319935,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319936
+    "ID": 319936,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319937
+    "ID": 319937,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319938
+    "ID": 319938,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319939
+    "ID": 319939,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319940
+    "ID": 319940,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319941
+    "ID": 319941,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319942
+    "ID": 319942,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319943
+    "ID": 319943,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319944
+    "ID": 319944,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319945
+    "ID": 319945,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319946
+    "ID": 319946,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319947
+    "ID": 319947,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319948
+    "ID": 319948,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319949
+    "ID": 319949,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319950
+    "ID": 319950,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319951
+    "ID": 319951,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319952
+    "ID": 319952,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319953
+    "ID": 319953,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319954
+    "ID": 319954,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319955
+    "ID": 319955,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319956
+    "ID": 319956,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319957
+    "ID": 319957,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 319958
+    "ID": 319958,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319959
+    "ID": 319959,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319960
+    "ID": 319960,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319961
+    "ID": 319961,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319962
+    "ID": 319962,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319963
+    "ID": 319963,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319964
+    "ID": 319964,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319965
+    "ID": 319965,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319966
+    "ID": 319966,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319967
+    "ID": 319967,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319968
+    "ID": 319968,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319969
+    "ID": 319969,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319970
+    "ID": 319970,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319971
+    "ID": 319971,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319972
+    "ID": 319972,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319973
+    "ID": 319973,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319974
+    "ID": 319974,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319975
+    "ID": 319975,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319976
+    "ID": 319976,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319977
+    "ID": 319977,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319978
+    "ID": 319978,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319979
+    "ID": 319979,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319980
+    "ID": 319980,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319981
+    "ID": 319981,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319982
+    "ID": 319982,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319983
+    "ID": 319983,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 319984
+    "ID": 319984,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319985
+    "ID": 319985,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319986
+    "ID": 319986,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319987
+    "ID": 319987,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319988
+    "ID": 319988,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319989
+    "ID": 319989,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 319990
+    "ID": 319990,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319991
+    "ID": 319991,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319992
+    "ID": 319992,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319993
+    "ID": 319993,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 319994
+    "ID": 319994,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319995
+    "ID": 319995,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319996
+    "ID": 319996,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319997
+    "ID": 319997,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319998
+    "ID": 319998,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 319999
+    "ID": 319999,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320000
+    "ID": 320000,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320001
+    "ID": 320001,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320002
+    "ID": 320002,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320003
+    "ID": 320003,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320004
+    "ID": 320004,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320005
+    "ID": 320005,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320006
+    "ID": 320006,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320007
+    "ID": 320007,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320008
+    "ID": 320008,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320009
+    "ID": 320009,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320010
+    "ID": 320010,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320011
+    "ID": 320011,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320012
+    "ID": 320012,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320013
+    "ID": 320013,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320014
+    "ID": 320014,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320015
+    "ID": 320015,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320016
+    "ID": 320016,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320017
+    "ID": 320017,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320018
+    "ID": 320018,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320019
+    "ID": 320019,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320020
+    "ID": 320020,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320021
+    "ID": 320021,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320022
+    "ID": 320022,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320023
+    "ID": 320023,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320024
+    "ID": 320024,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320025
+    "ID": 320025,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320026
+    "ID": 320026,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320027
+    "ID": 320027,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320028
+    "ID": 320028,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320029
+    "ID": 320029,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320030
+    "ID": 320030,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320031
+    "ID": 320031,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320032
+    "ID": 320032,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320033
+    "ID": 320033,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320034
+    "ID": 320034,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320035
+    "ID": 320035,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320036
+    "ID": 320036,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320037
+    "ID": 320037,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320038
+    "ID": 320038,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320039
+    "ID": 320039,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320040
+    "ID": 320040,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320041
+    "ID": 320041,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320042
+    "ID": 320042,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320043
+    "ID": 320043,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320044
+    "ID": 320044,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320045
+    "ID": 320045,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320046
+    "ID": 320046,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320047
+    "ID": 320047,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320048
+    "ID": 320048,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320049
+    "ID": 320049,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320050
+    "ID": 320050,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320051
+    "ID": 320051,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320052
+    "ID": 320052,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320053
+    "ID": 320053,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320054
+    "ID": 320054,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320055
+    "ID": 320055,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320056
+    "ID": 320056,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320057
+    "ID": 320057,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320058
+    "ID": 320058,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320059
+    "ID": 320059,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320060
+    "ID": 320060,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320061
+    "ID": 320061,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320062
+    "ID": 320062,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320063
+    "ID": 320063,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320064
+    "ID": 320064,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320065
+    "ID": 320065,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320066
+    "ID": 320066,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320067
+    "ID": 320067,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320068
+    "ID": 320068,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320069
+    "ID": 320069,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320070
+    "ID": 320070,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320071
+    "ID": 320071,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320072
+    "ID": 320072,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320073
+    "ID": 320073,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320074
+    "ID": 320074,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320075
+    "ID": 320075,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320076
+    "ID": 320076,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320077
+    "ID": 320077,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320078
+    "ID": 320078,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320079
+    "ID": 320079,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320080
+    "ID": 320080,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320081
+    "ID": 320081,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320082
+    "ID": 320082,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320083
+    "ID": 320083,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320084
+    "ID": 320084,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320085
+    "ID": 320085,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320086
+    "ID": 320086,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320087
+    "ID": 320087,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320088
+    "ID": 320088,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320089
+    "ID": 320089,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320090
+    "ID": 320090,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320091
+    "ID": 320091,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320092
+    "ID": 320092,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320093
+    "ID": 320093,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320094
+    "ID": 320094,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320095
+    "ID": 320095,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320096
+    "ID": 320096,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320097
+    "ID": 320097,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320098
+    "ID": 320098,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320099
+    "ID": 320099,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320100
+    "ID": 320100,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320101
+    "ID": 320101,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320102
+    "ID": 320102,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320103
+    "ID": 320103,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320104
+    "ID": 320104,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320105
+    "ID": 320105,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320106
+    "ID": 320106,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320107
+    "ID": 320107,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320108
+    "ID": 320108,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320109
+    "ID": 320109,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320110
+    "ID": 320110,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320111
+    "ID": 320111,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320112
+    "ID": 320112,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320113
+    "ID": 320113,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320114
+    "ID": 320114,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320115
+    "ID": 320115,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320116
+    "ID": 320116,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320117
+    "ID": 320117,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320118
+    "ID": 320118,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320119
+    "ID": 320119,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320120
+    "ID": 320120,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320121
+    "ID": 320121,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320122
+    "ID": 320122,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320123
+    "ID": 320123,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320124
+    "ID": 320124,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320125
+    "ID": 320125,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320126
+    "ID": 320126,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320127
+    "ID": 320127,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320128
+    "ID": 320128,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320129
+    "ID": 320129,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320130
+    "ID": 320130,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320131
+    "ID": 320131,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320132
+    "ID": 320132,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320133
+    "ID": 320133,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320134
+    "ID": 320134,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320135
+    "ID": 320135,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320136
+    "ID": 320136,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320137
+    "ID": 320137,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320138
+    "ID": 320138,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320139
+    "ID": 320139,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320140
+    "ID": 320140,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320141
+    "ID": 320141,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320142
+    "ID": 320142,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320143
+    "ID": 320143,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320144
+    "ID": 320144,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320145
+    "ID": 320145,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320146
+    "ID": 320146,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320147
+    "ID": 320147,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320148
+    "ID": 320148,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320149
+    "ID": 320149,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320150
+    "ID": 320150,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320151
+    "ID": 320151,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320152
+    "ID": 320152,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320153
+    "ID": 320153,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320154
+    "ID": 320154,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320155
+    "ID": 320155,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320156
+    "ID": 320156,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320157
+    "ID": 320157,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320158
+    "ID": 320158,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320159
+    "ID": 320159,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320160
+    "ID": 320160,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320161
+    "ID": 320161,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320162
+    "ID": 320162,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320163
+    "ID": 320163,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320164
+    "ID": 320164,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320165
+    "ID": 320165,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320166
+    "ID": 320166,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320167
+    "ID": 320167,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320168
+    "ID": 320168,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320169
+    "ID": 320169,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320170
+    "ID": 320170,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320171
+    "ID": 320171,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320172
+    "ID": 320172,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 320173
+    "ID": 320173,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320174
+    "ID": 320174,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320175
+    "ID": 320175,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320176
+    "ID": 320176,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320177
+    "ID": 320177,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320178
+    "ID": 320178,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320179
+    "ID": 320179,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320180
+    "ID": 320180,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320181
+    "ID": 320181,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320182
+    "ID": 320182,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320183
+    "ID": 320183,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320184
+    "ID": 320184,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320185
+    "ID": 320185,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320186
+    "ID": 320186,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320187
+    "ID": 320187,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320188
+    "ID": 320188,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320189
+    "ID": 320189,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320190
+    "ID": 320190,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320191
+    "ID": 320191,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320192
+    "ID": 320192,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320193
+    "ID": 320193,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320194
+    "ID": 320194,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320195
+    "ID": 320195,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320196
+    "ID": 320196,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320197
+    "ID": 320197,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320198
+    "ID": 320198,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320199
+    "ID": 320199,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320200
+    "ID": 320200,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320201
+    "ID": 320201,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320202
+    "ID": 320202,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320203
+    "ID": 320203,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320204
+    "ID": 320204,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320205
+    "ID": 320205,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320206
+    "ID": 320206,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320207
+    "ID": 320207,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320208
+    "ID": 320208,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320209
+    "ID": 320209,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320210
+    "ID": 320210,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320211
+    "ID": 320211,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320212
+    "ID": 320212,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320213
+    "ID": 320213,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320214
+    "ID": 320214,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320215
+    "ID": 320215,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320216
+    "ID": 320216,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320217
+    "ID": 320217,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320218
+    "ID": 320218,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320219
+    "ID": 320219,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320220
+    "ID": 320220,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320221
+    "ID": 320221,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320222
+    "ID": 320222,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320223
+    "ID": 320223,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320224
+    "ID": 320224,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320225
+    "ID": 320225,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320226
+    "ID": 320226,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320227
+    "ID": 320227,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320228
+    "ID": 320228,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320229
+    "ID": 320229,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320230
+    "ID": 320230,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320231
+    "ID": 320231,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320232
+    "ID": 320232,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320233
+    "ID": 320233,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320234
+    "ID": 320234,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320235
+    "ID": 320235,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320236
+    "ID": 320236,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320237
+    "ID": 320237,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320238
+    "ID": 320238,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320239
+    "ID": 320239,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320240
+    "ID": 320240,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320241
+    "ID": 320241,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320242
+    "ID": 320242,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320243
+    "ID": 320243,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320244
+    "ID": 320244,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320245
+    "ID": 320245,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320246
+    "ID": 320246,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320247
+    "ID": 320247,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320248
+    "ID": 320248,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320249
+    "ID": 320249,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320250
+    "ID": 320250,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320251
+    "ID": 320251,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320252
+    "ID": 320252,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320253
+    "ID": 320253,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320254
+    "ID": 320254,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320255
+    "ID": 320255,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320256
+    "ID": 320256,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320257
+    "ID": 320257,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320258
+    "ID": 320258,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320259
+    "ID": 320259,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320260
+    "ID": 320260,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320261
+    "ID": 320261,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320262
+    "ID": 320262,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320263
+    "ID": 320263,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320264
+    "ID": 320264,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320265
+    "ID": 320265,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320266
+    "ID": 320266,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320267
+    "ID": 320267,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320268
+    "ID": 320268,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320269
+    "ID": 320269,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320270
+    "ID": 320270,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320271
+    "ID": 320271,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320272
+    "ID": 320272,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320273
+    "ID": 320273,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 320274
+    "ID": 320274,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320275
+    "ID": 320275,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320276
+    "ID": 320276,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320277
+    "ID": 320277,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320278
+    "ID": 320278,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320279
+    "ID": 320279,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320280
+    "ID": 320280,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320281
+    "ID": 320281,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320282
+    "ID": 320282,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320283
+    "ID": 320283,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320284
+    "ID": 320284,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320285
+    "ID": 320285,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320286
+    "ID": 320286,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320287
+    "ID": 320287,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320288
+    "ID": 320288,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320289
+    "ID": 320289,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320290
+    "ID": 320290,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320291
+    "ID": 320291,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320292
+    "ID": 320292,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320293
+    "ID": 320293,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320294
+    "ID": 320294,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320295
+    "ID": 320295,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320296
+    "ID": 320296,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320297
+    "ID": 320297,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320298
+    "ID": 320298,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320299
+    "ID": 320299,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320300
+    "ID": 320300,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320301
+    "ID": 320301,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320303
+    "ID": 320303,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320304
+    "ID": 320304,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320306
+    "ID": 320306,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320307
+    "ID": 320307,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320308
+    "ID": 320308,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320309
+    "ID": 320309,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320310
+    "ID": 320310,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320311
+    "ID": 320311,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320312
+    "ID": 320312,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320313
+    "ID": 320313,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320314
+    "ID": 320314,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320315
+    "ID": 320315,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320316
+    "ID": 320316,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320317
+    "ID": 320317,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320318
+    "ID": 320318,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320319
+    "ID": 320319,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320320
+    "ID": 320320,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320321
+    "ID": 320321,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320322
+    "ID": 320322,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320323
+    "ID": 320323,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320324
+    "ID": 320324,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320325
+    "ID": 320325,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320326
+    "ID": 320326,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320327
+    "ID": 320327,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320328
+    "ID": 320328,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320329
+    "ID": 320329,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320330
+    "ID": 320330,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320331
+    "ID": 320331,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320332
+    "ID": 320332,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320333
+    "ID": 320333,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320334
+    "ID": 320334,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320335
+    "ID": 320335,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320336
+    "ID": 320336,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320337
+    "ID": 320337,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320338
+    "ID": 320338,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320339
+    "ID": 320339,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320340
+    "ID": 320340,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320341
+    "ID": 320341,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320342
+    "ID": 320342,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320343
+    "ID": 320343,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320344
+    "ID": 320344,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320345
+    "ID": 320345,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320346
+    "ID": 320346,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320347
+    "ID": 320347,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320348
+    "ID": 320348,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320349
+    "ID": 320349,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320350
+    "ID": 320350,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320351
+    "ID": 320351,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320352
+    "ID": 320352,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320353
+    "ID": 320353,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320354
+    "ID": 320354,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320355
+    "ID": 320355,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320356
+    "ID": 320356,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320357
+    "ID": 320357,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320358
+    "ID": 320358,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320359
+    "ID": 320359,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320360
+    "ID": 320360,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320361
+    "ID": 320361,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320362
+    "ID": 320362,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320363
+    "ID": 320363,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320364
+    "ID": 320364,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320365
+    "ID": 320365,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320366
+    "ID": 320366,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320367
+    "ID": 320367,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320368
+    "ID": 320368,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320369
+    "ID": 320369,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320370
+    "ID": 320370,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320371
+    "ID": 320371,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320372
+    "ID": 320372,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320373
+    "ID": 320373,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320374
+    "ID": 320374,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320375
+    "ID": 320375,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320376
+    "ID": 320376,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320377
+    "ID": 320377,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320378
+    "ID": 320378,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320379
+    "ID": 320379,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320380
+    "ID": 320380,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320381
+    "ID": 320381,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320382
+    "ID": 320382,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320383
+    "ID": 320383,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320384
+    "ID": 320384,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320385
+    "ID": 320385,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320386
+    "ID": 320386,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320387
+    "ID": 320387,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320388
+    "ID": 320388,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320389
+    "ID": 320389,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320390
+    "ID": 320390,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320391
+    "ID": 320391,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320392
+    "ID": 320392,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320393
+    "ID": 320393,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320394
+    "ID": 320394,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320395
+    "ID": 320395,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320396
+    "ID": 320396,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320397
+    "ID": 320397,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320398
+    "ID": 320398,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320399
+    "ID": 320399,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320400
+    "ID": 320400,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320401
+    "ID": 320401,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320402
+    "ID": 320402,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320403
+    "ID": 320403,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320404
+    "ID": 320404,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320405
+    "ID": 320405,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320406
+    "ID": 320406,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320407
+    "ID": 320407,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320408
+    "ID": 320408,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320409
+    "ID": 320409,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320410
+    "ID": 320410,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320411
+    "ID": 320411,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320412
+    "ID": 320412,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320413
+    "ID": 320413,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320414
+    "ID": 320414,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320415
+    "ID": 320415,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320416
+    "ID": 320416,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320417
+    "ID": 320417,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320418
+    "ID": 320418,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320419
+    "ID": 320419,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320420
+    "ID": 320420,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320421
+    "ID": 320421,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320422
+    "ID": 320422,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320423
+    "ID": 320423,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320424
+    "ID": 320424,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320425
+    "ID": 320425,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320426
+    "ID": 320426,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320427
+    "ID": 320427,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320428
+    "ID": 320428,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320429
+    "ID": 320429,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320430
+    "ID": 320430,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320431
+    "ID": 320431,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320432
+    "ID": 320432,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320433
+    "ID": 320433,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320434
+    "ID": 320434,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320435
+    "ID": 320435,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320436
+    "ID": 320436,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320437
+    "ID": 320437,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320438
+    "ID": 320438,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320439
+    "ID": 320439,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320440
+    "ID": 320440,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320441
+    "ID": 320441,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320442
+    "ID": 320442,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320443
+    "ID": 320443,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320444
+    "ID": 320444,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320445
+    "ID": 320445,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320447
+    "ID": 320447,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320448
+    "ID": 320448,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320449
+    "ID": 320449,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320450
+    "ID": 320450,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320451
+    "ID": 320451,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320452
+    "ID": 320452,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320453
+    "ID": 320453,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320454
+    "ID": 320454,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320455
+    "ID": 320455,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320456
+    "ID": 320456,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320457
+    "ID": 320457,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320458
+    "ID": 320458,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320459
+    "ID": 320459,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320460
+    "ID": 320460,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320461
+    "ID": 320461,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320462
+    "ID": 320462,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320463
+    "ID": 320463,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320464
+    "ID": 320464,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320465
+    "ID": 320465,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320466
+    "ID": 320466,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320467
+    "ID": 320467,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320468
+    "ID": 320468,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320469
+    "ID": 320469,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320470
+    "ID": 320470,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320471
+    "ID": 320471,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320472
+    "ID": 320472,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320473
+    "ID": 320473,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320474
+    "ID": 320474,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320475
+    "ID": 320475,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320476
+    "ID": 320476,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320477
+    "ID": 320477,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320478
+    "ID": 320478,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320479
+    "ID": 320479,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320480
+    "ID": 320480,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320481
+    "ID": 320481,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320482
+    "ID": 320482,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320483
+    "ID": 320483,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320484
+    "ID": 320484,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320485
+    "ID": 320485,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320486
+    "ID": 320486,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320487
+    "ID": 320487,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320488
+    "ID": 320488,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320489
+    "ID": 320489,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320490
+    "ID": 320490,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320491
+    "ID": 320491,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320492
+    "ID": 320492,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320493
+    "ID": 320493,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320494
+    "ID": 320494,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320495
+    "ID": 320495,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320496
+    "ID": 320496,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320497
+    "ID": 320497,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320498
+    "ID": 320498,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320499
+    "ID": 320499,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320500
+    "ID": 320500,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320501
+    "ID": 320501,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320502
+    "ID": 320502,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320503
+    "ID": 320503,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320504
+    "ID": 320504,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320505
+    "ID": 320505,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320506
+    "ID": 320506,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320507
+    "ID": 320507,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320508
+    "ID": 320508,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320509
+    "ID": 320509,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320510
+    "ID": 320510,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320511
+    "ID": 320511,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320512
+    "ID": 320512,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320513
+    "ID": 320513,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320514
+    "ID": 320514,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320515
+    "ID": 320515,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320516
+    "ID": 320516,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320517
+    "ID": 320517,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320518
+    "ID": 320518,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320519
+    "ID": 320519,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320520
+    "ID": 320520,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320521
+    "ID": 320521,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320522
+    "ID": 320522,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320523
+    "ID": 320523,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320524
+    "ID": 320524,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320525
+    "ID": 320525,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320526
+    "ID": 320526,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320527
+    "ID": 320527,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320528
+    "ID": 320528,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320529
+    "ID": 320529,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320530
+    "ID": 320530,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320531
+    "ID": 320531,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320532
+    "ID": 320532,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320533
+    "ID": 320533,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320534
+    "ID": 320534,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320535
+    "ID": 320535,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320536
+    "ID": 320536,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320537
+    "ID": 320537,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320538
+    "ID": 320538,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320539
+    "ID": 320539,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320540
+    "ID": 320540,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320541
+    "ID": 320541,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320542
+    "ID": 320542,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320543
+    "ID": 320543,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320544
+    "ID": 320544,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320545
+    "ID": 320545,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320546
+    "ID": 320546,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320547
+    "ID": 320547,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320548
+    "ID": 320548,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320549
+    "ID": 320549,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320550
+    "ID": 320550,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320551
+    "ID": 320551,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320552
+    "ID": 320552,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320553
+    "ID": 320553,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320554
+    "ID": 320554,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320555
+    "ID": 320555,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320556
+    "ID": 320556,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320557
+    "ID": 320557,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320558
+    "ID": 320558,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320559
+    "ID": 320559,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320560
+    "ID": 320560,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320561
+    "ID": 320561,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320562
+    "ID": 320562,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320563
+    "ID": 320563,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320564
+    "ID": 320564,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320565
+    "ID": 320565,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320566
+    "ID": 320566,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320567
+    "ID": 320567,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320568
+    "ID": 320568,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320569
+    "ID": 320569,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320570
+    "ID": 320570,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320571
+    "ID": 320571,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320572
+    "ID": 320572,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320573
+    "ID": 320573,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320574
+    "ID": 320574,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320575
+    "ID": 320575,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320576
+    "ID": 320576,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320577
+    "ID": 320577,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320578
+    "ID": 320578,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320579
+    "ID": 320579,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320580
+    "ID": 320580,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320581
+    "ID": 320581,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320582
+    "ID": 320582,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320583
+    "ID": 320583,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320584
+    "ID": 320584,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320585
+    "ID": 320585,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320586
+    "ID": 320586,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320587
+    "ID": 320587,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320588
+    "ID": 320588,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320589
+    "ID": 320589,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320590
+    "ID": 320590,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320591
+    "ID": 320591,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320592
+    "ID": 320592,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320593
+    "ID": 320593,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320594
+    "ID": 320594,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320595
+    "ID": 320595,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320596
+    "ID": 320596,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320597
+    "ID": 320597,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320598
+    "ID": 320598,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320599
+    "ID": 320599,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320600
+    "ID": 320600,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320601
+    "ID": 320601,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320602
+    "ID": 320602,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320603
+    "ID": 320603,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320604
+    "ID": 320604,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320605
+    "ID": 320605,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320606
+    "ID": 320606,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320607
+    "ID": 320607,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320608
+    "ID": 320608,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320609
+    "ID": 320609,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320610
+    "ID": 320610,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320611
+    "ID": 320611,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320612
+    "ID": 320612,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320613
+    "ID": 320613,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320614
+    "ID": 320614,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320615
+    "ID": 320615,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320616
+    "ID": 320616,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320617
+    "ID": 320617,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320619
+    "ID": 320619,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320620
+    "ID": 320620,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320621
+    "ID": 320621,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320622
+    "ID": 320622,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320623
+    "ID": 320623,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320624
+    "ID": 320624,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320625
+    "ID": 320625,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320626
+    "ID": 320626,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320627
+    "ID": 320627,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320628
+    "ID": 320628,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320629
+    "ID": 320629,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320630
+    "ID": 320630,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320631
+    "ID": 320631,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320632
+    "ID": 320632,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320633
+    "ID": 320633,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320634
+    "ID": 320634,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320635
+    "ID": 320635,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320636
+    "ID": 320636,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320637
+    "ID": 320637,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320638
+    "ID": 320638,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320639
+    "ID": 320639,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320640
+    "ID": 320640,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320641
+    "ID": 320641,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320642
+    "ID": 320642,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320643
+    "ID": 320643,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320644
+    "ID": 320644,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320645
+    "ID": 320645,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320646
+    "ID": 320646,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320647
+    "ID": 320647,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320648
+    "ID": 320648,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320649
+    "ID": 320649,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320650
+    "ID": 320650,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320651
+    "ID": 320651,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320652
+    "ID": 320652,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320653
+    "ID": 320653,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320654
+    "ID": 320654,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320655
+    "ID": 320655,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320656
+    "ID": 320656,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320657
+    "ID": 320657,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320658
+    "ID": 320658,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320659
+    "ID": 320659,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320660
+    "ID": 320660,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320661
+    "ID": 320661,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320662
+    "ID": 320662,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320663
+    "ID": 320663,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320664
+    "ID": 320664,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320665
+    "ID": 320665,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320666
+    "ID": 320666,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320667
+    "ID": 320667,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320668
+    "ID": 320668,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320669
+    "ID": 320669,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320670
+    "ID": 320670,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320671
+    "ID": 320671,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320672
+    "ID": 320672,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320673
+    "ID": 320673,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320674
+    "ID": 320674,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320675
+    "ID": 320675,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320676
+    "ID": 320676,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320677
+    "ID": 320677,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320678
+    "ID": 320678,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320679
+    "ID": 320679,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320680
+    "ID": 320680,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320681
+    "ID": 320681,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320682
+    "ID": 320682,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320683
+    "ID": 320683,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320684
+    "ID": 320684,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320685
+    "ID": 320685,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320686
+    "ID": 320686,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320687
+    "ID": 320687,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320688
+    "ID": 320688,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320689
+    "ID": 320689,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320690
+    "ID": 320690,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320691
+    "ID": 320691,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320692
+    "ID": 320692,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320693
+    "ID": 320693,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320694
+    "ID": 320694,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320695
+    "ID": 320695,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320696
+    "ID": 320696,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320697
+    "ID": 320697,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320698
+    "ID": 320698,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320699
+    "ID": 320699,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320700
+    "ID": 320700,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320701
+    "ID": 320701,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320702
+    "ID": 320702,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320703
+    "ID": 320703,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320704
+    "ID": 320704,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320705
+    "ID": 320705,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320706
+    "ID": 320706,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320707
+    "ID": 320707,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320708
+    "ID": 320708,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320709
+    "ID": 320709,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320710
+    "ID": 320710,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320711
+    "ID": 320711,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320712
+    "ID": 320712,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320713
+    "ID": 320713,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320714
+    "ID": 320714,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320715
+    "ID": 320715,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320716
+    "ID": 320716,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320717
+    "ID": 320717,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320718
+    "ID": 320718,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320719
+    "ID": 320719,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320720
+    "ID": 320720,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320721
+    "ID": 320721,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320722
+    "ID": 320722,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320723
+    "ID": 320723,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320724
+    "ID": 320724,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320725
+    "ID": 320725,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320726
+    "ID": 320726,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320727
+    "ID": 320727,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320728
+    "ID": 320728,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320729
+    "ID": 320729,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320730
+    "ID": 320730,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320731
+    "ID": 320731,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320732
+    "ID": 320732,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320733
+    "ID": 320733,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320734
+    "ID": 320734,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320735
+    "ID": 320735,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320736
+    "ID": 320736,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320737
+    "ID": 320737,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320738
+    "ID": 320738,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320739
+    "ID": 320739,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320740
+    "ID": 320740,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320741
+    "ID": 320741,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320742
+    "ID": 320742,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320743
+    "ID": 320743,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320744
+    "ID": 320744,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320745
+    "ID": 320745,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320746
+    "ID": 320746,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320747
+    "ID": 320747,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320748
+    "ID": 320748,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320749
+    "ID": 320749,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320750
+    "ID": 320750,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320751
+    "ID": 320751,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320752
+    "ID": 320752,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320753
+    "ID": 320753,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320754
+    "ID": 320754,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320755
+    "ID": 320755,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320756
+    "ID": 320756,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320757
+    "ID": 320757,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320758
+    "ID": 320758,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320759
+    "ID": 320759,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320760
+    "ID": 320760,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320761
+    "ID": 320761,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320762
+    "ID": 320762,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320763
+    "ID": 320763,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320764
+    "ID": 320764,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320765
+    "ID": 320765,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320766
+    "ID": 320766,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320767
+    "ID": 320767,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320768
+    "ID": 320768,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320769
+    "ID": 320769,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320770
+    "ID": 320770,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320771
+    "ID": 320771,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320772
+    "ID": 320772,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320773
+    "ID": 320773,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320774
+    "ID": 320774,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320775
+    "ID": 320775,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320776
+    "ID": 320776,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320777
+    "ID": 320777,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320778
+    "ID": 320778,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320779
+    "ID": 320779,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320780
+    "ID": 320780,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320781
+    "ID": 320781,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320782
+    "ID": 320782,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320783
+    "ID": 320783,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320784
+    "ID": 320784,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320785
+    "ID": 320785,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320786
+    "ID": 320786,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320787
+    "ID": 320787,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320788
+    "ID": 320788,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320789
+    "ID": 320789,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320790
+    "ID": 320790,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320791
+    "ID": 320791,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320792
+    "ID": 320792,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320793
+    "ID": 320793,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320794
+    "ID": 320794,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320795
+    "ID": 320795,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320796
+    "ID": 320796,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320797
+    "ID": 320797,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320798
+    "ID": 320798,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320799
+    "ID": 320799,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320800
+    "ID": 320800,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320801
+    "ID": 320801,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320802
+    "ID": 320802,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320803
+    "ID": 320803,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320804
+    "ID": 320804,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320805
+    "ID": 320805,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320806
+    "ID": 320806,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320807
+    "ID": 320807,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320808
+    "ID": 320808,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320809
+    "ID": 320809,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320810
+    "ID": 320810,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320811
+    "ID": 320811,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320812
+    "ID": 320812,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320813
+    "ID": 320813,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320814
+    "ID": 320814,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320815
+    "ID": 320815,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320816
+    "ID": 320816,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320817
+    "ID": 320817,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320818
+    "ID": 320818,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320819
+    "ID": 320819,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320820
+    "ID": 320820,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320821
+    "ID": 320821,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320822
+    "ID": 320822,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320823
+    "ID": 320823,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320824
+    "ID": 320824,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320825
+    "ID": 320825,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320826
+    "ID": 320826,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320827
+    "ID": 320827,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320828
+    "ID": 320828,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320829
+    "ID": 320829,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320830
+    "ID": 320830,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320831
+    "ID": 320831,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320832
+    "ID": 320832,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 320833
+    "ID": 320833,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 320834
+    "ID": 320834,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320835
+    "ID": 320835,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320836
+    "ID": 320836,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320837
+    "ID": 320837,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320838
+    "ID": 320838,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320839
+    "ID": 320839,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320840
+    "ID": 320840,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320841
+    "ID": 320841,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320842
+    "ID": 320842,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320843
+    "ID": 320843,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320844
+    "ID": 320844,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320845
+    "ID": 320845,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320846
+    "ID": 320846,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320847
+    "ID": 320847,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320848
+    "ID": 320848,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320849
+    "ID": 320849,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320850
+    "ID": 320850,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320851
+    "ID": 320851,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320852
+    "ID": 320852,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320853
+    "ID": 320853,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320854
+    "ID": 320854,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320855
+    "ID": 320855,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320856
+    "ID": 320856,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320857
+    "ID": 320857,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320858
+    "ID": 320858,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320859
+    "ID": 320859,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320860
+    "ID": 320860,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320861
+    "ID": 320861,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320862
+    "ID": 320862,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320863
+    "ID": 320863,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320864
+    "ID": 320864,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320865
+    "ID": 320865,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320866
+    "ID": 320866,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320867
+    "ID": 320867,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320868
+    "ID": 320868,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320869
+    "ID": 320869,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320870
+    "ID": 320870,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320871
+    "ID": 320871,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320872
+    "ID": 320872,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320873
+    "ID": 320873,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320874
+    "ID": 320874,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320875
+    "ID": 320875,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320876
+    "ID": 320876,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320877
+    "ID": 320877,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320878
+    "ID": 320878,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320879
+    "ID": 320879,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320880
+    "ID": 320880,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320881
+    "ID": 320881,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320882
+    "ID": 320882,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320883
+    "ID": 320883,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320884
+    "ID": 320884,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320885
+    "ID": 320885,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320886
+    "ID": 320886,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320887
+    "ID": 320887,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320888
+    "ID": 320888,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320889
+    "ID": 320889,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320890
+    "ID": 320890,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320891
+    "ID": 320891,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320892
+    "ID": 320892,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320893
+    "ID": 320893,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320894
+    "ID": 320894,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320895
+    "ID": 320895,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320896
+    "ID": 320896,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320897
+    "ID": 320897,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320898
+    "ID": 320898,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320899
+    "ID": 320899,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320900
+    "ID": 320900,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320901
+    "ID": 320901,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320902
+    "ID": 320902,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320903
+    "ID": 320903,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320904
+    "ID": 320904,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320905
+    "ID": 320905,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320906
+    "ID": 320906,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320907
+    "ID": 320907,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320908
+    "ID": 320908,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320909
+    "ID": 320909,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320910
+    "ID": 320910,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320911
+    "ID": 320911,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320912
+    "ID": 320912,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320913
+    "ID": 320913,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320914
+    "ID": 320914,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320915
+    "ID": 320915,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320916
+    "ID": 320916,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320917
+    "ID": 320917,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320918
+    "ID": 320918,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320919
+    "ID": 320919,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320920
+    "ID": 320920,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320921
+    "ID": 320921,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320922
+    "ID": 320922,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320923
+    "ID": 320923,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320924
+    "ID": 320924,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320925
+    "ID": 320925,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320926
+    "ID": 320926,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320927
+    "ID": 320927,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320928
+    "ID": 320928,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320929
+    "ID": 320929,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320930
+    "ID": 320930,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320931
+    "ID": 320931,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 320932
+    "ID": 320932,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320933
+    "ID": 320933,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320934
+    "ID": 320934,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320935
+    "ID": 320935,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320936
+    "ID": 320936,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320937
+    "ID": 320937,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320938
+    "ID": 320938,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320939
+    "ID": 320939,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320940
+    "ID": 320940,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320941
+    "ID": 320941,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320942
+    "ID": 320942,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320943
+    "ID": 320943,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320944
+    "ID": 320944,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320945
+    "ID": 320945,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320946
+    "ID": 320946,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320947
+    "ID": 320947,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320948
+    "ID": 320948,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320949
+    "ID": 320949,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320950
+    "ID": 320950,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320951
+    "ID": 320951,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320952
+    "ID": 320952,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320953
+    "ID": 320953,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320954
+    "ID": 320954,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320955
+    "ID": 320955,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320956
+    "ID": 320956,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320957
+    "ID": 320957,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320958
+    "ID": 320958,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320959
+    "ID": 320959,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320960
+    "ID": 320960,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320961
+    "ID": 320961,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320962
+    "ID": 320962,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320963
+    "ID": 320963,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320964
+    "ID": 320964,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320965
+    "ID": 320965,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320966
+    "ID": 320966,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320967
+    "ID": 320967,
+    "category": "E-Learning"
   },
   {
-    "Ticket_ID": 320968
+    "ID": 320968,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320969
+    "ID": 320969,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320970
+    "ID": 320970,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320971
+    "ID": 320971,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320972
+    "ID": 320972,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320973
+    "ID": 320973,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320974
+    "ID": 320974,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320975
+    "ID": 320975,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320976
+    "ID": 320976,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 320977
+    "ID": 320977,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320978
+    "ID": 320978,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320979
+    "ID": 320979,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320980
+    "ID": 320980,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320981
+    "ID": 320981,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320982
+    "ID": 320982,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320983
+    "ID": 320983,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320984
+    "ID": 320984,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320985
+    "ID": 320985,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320986
+    "ID": 320986,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320987
+    "ID": 320987,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320988
+    "ID": 320988,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320989
+    "ID": 320989,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320990
+    "ID": 320990,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320991
+    "ID": 320991,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320992
+    "ID": 320992,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 320993
+    "ID": 320993,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320994
+    "ID": 320994,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320995
+    "ID": 320995,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320996
+    "ID": 320996,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320997
+    "ID": 320997,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 320998
+    "ID": 320998,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 320999
+    "ID": 320999,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321000
+    "ID": 321000,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321001
+    "ID": 321001,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321002
+    "ID": 321002,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321003
+    "ID": 321003,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321004
+    "ID": 321004,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321005
+    "ID": 321005,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321006
+    "ID": 321006,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321007
+    "ID": 321007,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321008
+    "ID": 321008,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321009
+    "ID": 321009,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321010
+    "ID": 321010,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321011
+    "ID": 321011,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321012
+    "ID": 321012,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321013
+    "ID": 321013,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321014
+    "ID": 321014,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321015
+    "ID": 321015,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321016
+    "ID": 321016,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321017
+    "ID": 321017,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321018
+    "ID": 321018,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321019
+    "ID": 321019,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321020
+    "ID": 321020,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321021
+    "ID": 321021,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321022
+    "ID": 321022,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321023
+    "ID": 321023,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321024
+    "ID": 321024,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321025
+    "ID": 321025,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321026
+    "ID": 321026,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321027
+    "ID": 321027,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321028
+    "ID": 321028,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321029
+    "ID": 321029,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321030
+    "ID": 321030,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321031
+    "ID": 321031,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321032
+    "ID": 321032,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321033
+    "ID": 321033,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321034
+    "ID": 321034,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321035
+    "ID": 321035,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321036
+    "ID": 321036,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321037
+    "ID": 321037,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 321038
+    "ID": 321038,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321039
+    "ID": 321039,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321040
+    "ID": 321040,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321041
+    "ID": 321041,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321042
+    "ID": 321042,
+    "category": "Auswertung/Liste"
   },
   {
-    "Ticket_ID": 321043
+    "ID": 321043,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321044
+    "ID": 321044,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321045
+    "ID": 321045,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 321046
+    "ID": 321046,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321047
+    "ID": 321047,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321048
+    "ID": 321048,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321049
+    "ID": 321049,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321050
+    "ID": 321050,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321051
+    "ID": 321051,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321052
+    "ID": 321052,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 321053
+    "ID": 321053,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321054
+    "ID": 321054,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321055
+    "ID": 321055,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321056
+    "ID": 321056,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 321057
+    "ID": 321057,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321058
+    "ID": 321058,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321059
+    "ID": 321059,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321060
+    "ID": 321060,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321061
+    "ID": 321061,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321062
+    "ID": 321062,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321063
+    "ID": 321063,
+    "category": "Feedback"
   },
   {
-    "Ticket_ID": 321064
+    "ID": 321064,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321065
+    "ID": 321065,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321066
+    "ID": 321066,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321067
+    "ID": 321067,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321068
+    "ID": 321068,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321069
+    "ID": 321069,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321070
+    "ID": 321070,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321071
+    "ID": 321071,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321072
+    "ID": 321072,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321073
+    "ID": 321073,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321074
+    "ID": 321074,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321075
+    "ID": 321075,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321076
+    "ID": 321076,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321077
+    "ID": 321077,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321078
+    "ID": 321078,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321079
+    "ID": 321079,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321080
+    "ID": 321080,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321081
+    "ID": 321081,
+    "category": "E-Mail"
   },
   {
-    "Ticket_ID": 321082
+    "ID": 321082,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321083
+    "ID": 321083,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321084
+    "ID": 321084,
+    "category": "Technisch"
   },
   {
-    "Ticket_ID": 321085
+    "ID": 321085,
+    "category": "Web.Net/OBS"
   },
   {
-    "Ticket_ID": 321086
+    "ID": 321086,
+    "category": "Web.Net/OBS"
   }
 ]

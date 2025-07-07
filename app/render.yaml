@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: evidenz-llm
-    env: python
-    plan: free
-    buildCommand: "pip install -r config/requirements.txt"
-    startCommand: "uvicorn main:app --host 0.0.0.0 --port 10000"

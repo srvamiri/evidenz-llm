@@ -1,12 +1,12 @@
-from modules import login as hf_login
-from modules import os, torch
+from app.modules import login as hf_login
+from app.modules import os, torch
 
 logged_in = False
 
 def hugging_face_login():
     global logged_in
-    if os.path.exists("config/hugging_face_token.txt"):
-        with open("config/hugging_face_token.txt", "r") as f:
+    if os.path.exists("app/config/hugging_face_token.txt"):
+        with open("app/config/hugging_face_token.txt", "r") as f:
             hf_token = f.read().strip()
         hf_login(hf_token)
         logged_in = True
@@ -20,3 +20,4 @@ def load_hf():
             torch.set_default_device("cuda")        
     except FileNotFoundError:
         print("❌ Hugging Face Login failed.")
+        

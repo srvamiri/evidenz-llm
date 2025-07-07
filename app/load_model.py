@@ -1,5 +1,5 @@
-from modules import AutoModelForCausalLM, AutoTokenizer, PeftModel, BitsAndBytesConfig, torch
-from hugging_face_config import load_hf
+from app.modules import AutoModelForCausalLM, AutoTokenizer, PeftModel, BitsAndBytesConfig, torch
+from app.hugging_face_config import load_hf
 
 load_hf()
 model_path = "google/gemma-2-9b-it"
@@ -37,3 +37,4 @@ def load_model():
     except Exception as e:
         print(f"Error loading the model: {e}")
         exit(1)
+        
