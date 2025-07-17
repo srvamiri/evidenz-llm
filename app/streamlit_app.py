@@ -1,5 +1,4 @@
-import streamlit as st
-import requests
+from app.modules import st, requests
 
 def generate_response():
     st.title("Support Ticket Assistent")
