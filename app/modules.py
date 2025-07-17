@@ -5,11 +5,13 @@ from decimal import Decimal
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List
-import uvicorn
+from peft import PeftModel
 import numpy as np
-import torch
 import pandas as pd
+import streamlit as st
+import uvicorn
+import torch
 import faiss
 import json
-from peft import PeftModel
 import os
+import requests
