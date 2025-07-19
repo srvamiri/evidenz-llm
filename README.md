@@ -22,7 +22,7 @@ The system is accessed via a Streamlit interface and optionally served through a
 - `pip` (Python package installer)
 - Git
 - Google Colab or a machine with a GPU (for inference/fine-tuning)
-- Hugging Face account (optional, if using Hugging Face Hub)
+- Hugging Face account
 
 ### 1. Clone the repository
 ```bash
