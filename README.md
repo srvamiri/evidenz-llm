@@ -11,3 +11,8 @@ Alongside few-shot learning, prompt engineering, and semantic classification and
 - Enhanced user experience (UX)
 - Easy to use
 - Written in Python
+
+## Installation
+
+```bash
+./run.sh
