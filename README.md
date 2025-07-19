@@ -25,7 +25,8 @@ The tool is **not intended for end-users** or for automatic ticket prioritizatio
 - `pip` (Python package installer)
 - Git
 - Google Colab or a machine with a GPU (for inference/fine-tuning)
-- Hugging Face account
+- Hugging Face account to authenticate your identity to the Hugging Face Hub
+- Save your User Access Token in `app/config/hugging_face_token.txt`
 
 ### 1. Clone the repository
 ```bash
