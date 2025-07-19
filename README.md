@@ -13,6 +13,11 @@ The system is accessed via a Streamlit interface and optionally served through a
 - Easy to use
 - Written in Python
 
+## Target Users
+
+This system is designed for **technical support staff** who handle large volumes of IT-related tickets. It assists them by providing AI-augmented response suggestions, enabling faster and more accurate ticket resolution. 
+The tool is **not intended for end-users** or for automatic ticket prioritization; it empowers support personnel by integrating the RAG with the fine-tuned Gemma LLM.
+
 ## Installation
 ### Prerequisites
 
