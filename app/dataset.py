@@ -20,6 +20,7 @@ files_to_verify = [
     os.path.join(folder_path, "classified_logs_24.csv"),
 ]
 
+# Verify if all required files are present
 def verify_files():
     missing_files = list()
     for path in files_to_verify:
@@ -32,6 +33,7 @@ def verify_files():
     print()
     return missing_files
 
+# Load tickets from CSV or JSONL files
 def load_tickets(path, filetype="jsonl"):
     if filetype == "jsonl":
         df = pd.read_json(path, lines=True)
@@ -40,12 +42,14 @@ def load_tickets(path, filetype="jsonl"):
     else:
         raise ValueError("Unsupported filetype")
     return df
-    
+
+# Build FAISS index from the ticket data    
 def build_faiss_index(df, dfc=None):
     grouped = df.groupby("Ticket_ID")
     docs = []
     metadata = []
 
+    # If classified logs are provided, extract metadata
     if dfc is not None:
         for _, row in dfc.iterrows():
             metadata.append({
@@ -95,6 +99,7 @@ def get_dataset():
         # Load data and build index
         load_data_and_index()
     else:
+        # Load existing data and index
         with open(f"{folder_path}ticket_history.json", "r") as f:
             docs = json.load(f)
 

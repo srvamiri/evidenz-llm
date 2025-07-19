@@ -3,6 +3,7 @@ from app.modules import os, torch
 
 logged_in = False
 
+# Log in to Hugging Face
 def hugging_face_login():
     global logged_in
     if os.path.exists("app/config/hugging_face_token.txt"):
@@ -13,6 +14,7 @@ def hugging_face_login():
     else:
         raise FileNotFoundError("Hugging Face token file not found. Please create 'config/hugging_face_token.txt' with your token.")
 
+# Load the Hugging Face model and set the device
 def load_hf():
     try:
         if not logged_in:

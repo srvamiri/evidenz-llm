@@ -1,9 +1,10 @@
 from app.modules import AutoModelForCausalLM, AutoTokenizer, PeftModel, BitsAndBytesConfig, torch
 from app.hugging_face_config import load_hf
 
+# Load Hugging Face configuration
 load_hf()
 model_path = "google/gemma-2-9b-it"
-model_repo = "samiri1377/gemma-2-9b-it-fine-tuned"
+model_repo = "samiri1377/gemma-2-9b-it-fine-tuned" # Path to the fine-tuned model repository (public)
 
 _model = None
 _tokenizer = None
@@ -24,6 +25,7 @@ base_model = AutoModelForCausalLM.from_pretrained(
     device_map="auto",
 )
 
+# Load the fine-tuned model using PEFT
 def load_model():
     try:
         global _model, _tokenizer

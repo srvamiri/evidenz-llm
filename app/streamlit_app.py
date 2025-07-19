@@ -18,17 +18,21 @@ def generate_response():
                     json={"query": user_query, "top_k": top_k}
                 )
                 results = response.json()
-                st.subheader("📂 Relevante Tickets:")
+
+                # Check if the response contains relevant tickets
+                st.subheader("📂 Relevante Tickets:")                                
                 for idx, ticket in enumerate(results.get("relevant_tickets", [])):
                     with st.expander(f"Ticket {idx+1}"):
                         full_text = f"Ticket-ID: {ticket['ticket_id']}\nCategory: {ticket['category']}\n{ticket['conversation']}\n"
                         st.write(full_text.replace("\n", "<br>").replace("\r\n", "<br>"),
                                  unsafe_allow_html=True)
 
+                # Display the suggested response
                 st.subheader("💬 Lösungsvorschlag:")
                 response_text = results.get("response", "Keine Rückmeldung")
                 response_text = response_text.replace("\n", "<br>").replace("\r", "<br>").replace("\r\n", "<br>")
                 st.write(response_text, unsafe_allow_html=True)
+                
             except requests.exceptions.RequestException as e:
                 st.error(f"Fehler bei der API-Anfrage: {e}")
                 return

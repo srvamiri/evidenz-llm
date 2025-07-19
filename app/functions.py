@@ -2,9 +2,12 @@ from app.modules import np, torch
 from app.load_model import load_model
 from app.dataset import get_dataset, _embedder
 
+# Get dataset and and load the model and tokenizer
 docs, metadata, index = get_dataset()
 model, tokenizer = load_model()
 
+# Build the RAG prompt for the LLM
+# This function takes the retrieved context and the new ticket as input
 def build_rag_prompt(retrieved_context, new_ticket):
     context_block = "\n".join([f"{i+1}. {t['conversation']}" for i, t in enumerate(retrieved_context)])
     prompt = f"""Du bist ein technischer Supportassistent. Basierend auf dem unten beschriebenen Problem und früheren, verwandten Tickets, gib bitte eine hilfreiche und genaue Lösung. Bitte zeig nicht die vorherigen Tickets.
@@ -18,6 +21,7 @@ Neues Ticket:
 Loesung:"""
     return prompt
 
+# Extract the solution from the model's response
 def extract_solution(response_text):
     parts = response_text.split("Loesung:")
     if len(parts) > 1:
@@ -40,6 +44,7 @@ def search(query: str, top_k=3):
           })
     return top_tickets
 
+# Generate a response using the RAG and LLM
 def generate_response(prompt: str):
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
     with torch.no_grad():
@@ -60,6 +65,7 @@ def generate_response(prompt: str):
     response = extract_solution(raw_response)
     return response
 
+# Main function to get the solution for a given query
 def get_solution(query: str, top_k=3):
     # Retrieve relevant tickets
     retrieved_tickets = search(query, top_k)

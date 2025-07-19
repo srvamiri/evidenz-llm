@@ -17,6 +17,7 @@ class QueryResponse(BaseModel):
     response: str
     relevant_tickets: List[TicketInfo]
 
+# API Endpoints
 @app.post("/generate", response_model=QueryResponse)
 async def generate_query_response(request: QueryRequest):
     try:
