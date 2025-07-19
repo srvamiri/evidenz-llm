@@ -16,11 +16,22 @@ The system is accessed via a Streamlit interface and optionally served through a
 
 
 ## Installation
-### ✅ Prerequisites
+### Prerequisites
 
 - Python 3.10 or higher
-- `pip  install app/requirements.txt`
+- `pip` (Python package installer)
 - Git
-- Google Colab or a machine with GPU (for inference/fine-tuning)
+- Google Colab or a machine with a GPU (for inference/fine-tuning)
 - Hugging Face account (optional, if using Hugging Face Hub)
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/srvamiri/evidenz-llm.git
+```
+
+### 2. Set up a virtual environment (recommended)
+```bash
+python -m venv venv
+source venv/bin/activate  # on Windows: venv\Scripts\activate
+```
 
