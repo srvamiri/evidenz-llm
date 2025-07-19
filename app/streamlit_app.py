@@ -1,4 +1,4 @@
-from app.modules import st, requests
+from modules import st, requests
 
 def generate_response():
     st.title("Support Ticket Assistent")
@@ -26,11 +26,12 @@ def generate_response():
                                  unsafe_allow_html=True)
 
                 st.subheader("💬 Lösungsvorschlag:")
-                st.write(results.get("response", "Keine Rückmeldung"))
+                response_text = results.get("response", "Keine Rückmeldung")
+                response_text = response_text.replace("\n", "<br>").replace("\r", "<br>").replace("\r\n", "<br>")
+                st.write(response_text, unsafe_allow_html=True)
             except requests.exceptions.RequestException as e:
                 st.error(f"Fehler bei der API-Anfrage: {e}")
                 return
 
 if __name__ == "__main__":
     generate_response()
-    

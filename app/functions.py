@@ -28,11 +28,11 @@ def extract_solution(response_text):
 # Function to retrieve relevant tickets
 def search(query: str, top_k=3):
     query_vec = _embedder.encode([query])
-    _, indices = index.search(np.array(query_vec), top_k)
+    D, indices = index.search(np.array(query_vec), top_k)
     
     top_tickets = []
 
-    for idx in indices[0]:      
+    for idx in indices[0]:
           top_tickets.append({
               "ticket_id": metadata[idx]["ID"],
               "category": metadata[idx]["category"],

@@ -20,4 +20,3 @@ def load_hf():
             torch.set_default_device("cuda")        
     except FileNotFoundError:
         print("❌ Hugging Face Login failed.")
-        

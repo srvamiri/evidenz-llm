@@ -37,4 +37,3 @@ def load_model():
     except Exception as e:
         print(f"Error loading the model: {e}")
         exit(1)
-        

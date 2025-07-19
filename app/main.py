@@ -17,15 +17,6 @@ class QueryResponse(BaseModel):
     response: str
     relevant_tickets: List[TicketInfo]
 
-# query = "TSS Login funktioniert nicht."
-# response, relevant_tickets = get_solution(query, 3)
-
-# for idx, ticket in enumerate(relevant_tickets):
-#     print(f"Ticket {idx+1}.")
-#     print(f"Ticket-ID: {ticket['ticket_id']}\nCategory: {ticket['category']}\n{ticket['conversation']}\n")
-
-# print("Suggested response:\n", response, end='\n')
-
 @app.post("/generate", response_model=QueryResponse)
 async def generate_query_response(request: QueryRequest):
     try:
@@ -40,4 +31,3 @@ def run_app():
 
 if __name__ == "__main__":
     run_app()
-    

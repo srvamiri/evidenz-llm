@@ -1,4 +1,4 @@
-from modules import pd, faiss, json, os, SentenceTransformer
+from app.modules import pd, faiss, json, os, SentenceTransformer
 
 _embedder = None
 
