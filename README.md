@@ -27,6 +27,7 @@ The system is accessed via a Streamlit interface and optionally served through a
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/srvamiri/evidenz-llm.git
+cd evidenz-llm
 ```
 
 ### 2. Set up a virtual environment (recommended)
@@ -34,4 +35,22 @@ git clone https://github.com/srvamiri/evidenz-llm.git
 python -m venv venv
 source venv/bin/activate  # on Windows: venv\Scripts\activate
 ```
+
+### 2. Install dependencies
+```bash
+pip install -r app/config/requirements.txt
+```
+The `requirements.txt` file should include:
+transformers
+peft
+accelerate
+bitsandbytes
+pandas
+sentence-transformers
+datasets
+fsspec==2025.3.2
+fastapi
+uvicorn
+faiss-cpu
+streamlit
 
