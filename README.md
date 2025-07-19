@@ -36,7 +36,7 @@ python -m venv venv
 source venv/bin/activate  # on Windows: venv\Scripts\activate
 ```
 
-### 2. Install dependencies
+### 3. Install dependencies
 ```bash
 pip install -r app/config/requirements.txt
 ```
@@ -54,4 +54,8 @@ fastapi
 uvicorn
 faiss-cpu
 streamlit
+```
+### 4. Run the `run.sh` file
+```bash
+./run.sh
 ```
