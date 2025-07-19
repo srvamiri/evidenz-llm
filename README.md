@@ -41,6 +41,7 @@ source venv/bin/activate  # on Windows: venv\Scripts\activate
 pip install -r app/config/requirements.txt
 ```
 The `requirements.txt` file should include:
+```
 transformers
 peft
 accelerate
@@ -53,4 +54,4 @@ fastapi
 uvicorn
 faiss-cpu
 streamlit
-
+```
